@@ -1,0 +1,1133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<title>Technology Review: Getting Into the Swing</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta content="Technology, Review, MIT, magazine, nanotechnology, nanotech, biotechnology, biotech, information technology, infotech, business, business technology, biz tech" name="keywords" />
+	
+	<meta content="Companies hoping to combine environmental good deeds with sensible business practice need predictable, consistent, and timely signals from regulators." name="description" />
+	
+	
+	<meta content="Technology Review Web Development Team" name="author" />
+	
+	<meta content="Getting Into the Swing" name="title" />
+	
+	<meta content="" name="pages" />
+	<meta content="" name="collection" />
+	<meta content="Cambridge, MA" name="geo.placename" />
+	<meta content="US-MA" name="geo.region" />
+	<meta content="NOARCHIVE" name="GOOGLEBOT" />
+	
+	<link media="screen" href="/css/TR.css?634045091621886570" type="text/css" rel="stylesheet" />
+	<!--[if IE]><link media="screen" href="/css/ie.css?634024336176863760" type="text/css" rel="stylesheet" /><![endif]-->
+    	<link title="small text" media="screen" href="/css/small.css" type="text/css" rel="alternate stylesheet" />
+	<link title="medium text" media="screen" href="/css/medium.css" type="text/css" rel="alternate stylesheet" />
+	<link title="large text" media="screen" href="/css/large.css" type="text/css" rel="alternate stylesheet" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.technologyreview.com/rss/rss.aspx" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="icon" href="/favicon.ico" />
+	<script src="/scripts/script.js?633991655042832940" type="text/javascript"> <!-- // --> </script>
+	
+<script language="javascript" type="text/javascript" src="/scripts/MobileCompatibilityScript.js"></script> 
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script> 
+<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script> 
+
+
+</head>
+<body class="Energy"><!-- search ignore begin -->
+
+
+
+	<div id="container" style="width:996px; margin:auto;">
+		<!-- header include | leaderboard and tools -->
+
+			
+<div id="whiteNavBar">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"">
+<tr><td>
+<a href="http://www.technologyreview.com/"><img src="/images/wheader/trlogo.jpg" alt="Technology Review - Published By MIT" width="224" height="66" border="0" /></a>
+
+</td>
+<td align="right" >
+<div class="internationallink">Technology Review &nbsp;<a href="http://www.technologyreview.com">in English</a> | <a href="http://www.technologyreview.com/es">en Espa&ntilde;ol</a> | <a href="http://www.heise.de/tr/">auf Deutsch</a> | <a href="http://www.technologyreview.it/">in Italiano</a> | <a style="font-family:times,serif" href="http://www.mittrchinese.com">&#20013;&#25991;</a> | <a href="http://www.technologyreview.in">in India</a></div>
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var randartnum = RanNow();
+
+//--><!]]>
+</script>
+
+
+<div style="padding-bottom:8px;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<img src="/images/wheader/ad_legend_v.gif" alt="Advertisement" width="18" height="90">
+</td>
+<td>
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+					var browser_type=navigator.appName
+					var browser_version=parseInt(navigator.appVersion)
+					if (browser_type=="Netscape"&&browser_version>=4)
+						document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/leaderboard1;!category=webexc;channel=web;section=;at=leaderboard;page=home;s=leaderboard1;sz=728x90;dcopt=ist;tile=1;ord=' + randartnum + '?"><\/SCRIPT>')
+					else
+						document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/leaderboard1;!category=webexc;channel=web;section=;at=leaderboard;page=home;s=leaderboard1;sz=728x90;dcopt=ist;tile=1;ord=' + randartnum + '?"><\/SCRIPT>')
+				//--><!]]>
+				</script>
+				<noscript><a href="https://ad.doubleclick.net/jump/mk3.technologyreview.com/leaderboard1;!category=webexc;channel=web;section=;at=leaderboard;page=home;s=leaderboard1;sz=728x90;tile=1;ord=' + randartnum + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/mk3.technologyreview.com/leaderboard1;!category=webexc;channel=web;section=;at=leaderboard;page=home;s=leaderboard1;sz=728x90;tile=1;ord=' + randartnum + '?" width="728" height="90" border="0" alt="click here..." /></a>
+				</noscript> 
+</div>		</td></tr></table>
+
+
+</td></tr></table>
+
+
+
+
+<script>
+startIntMenu = function() {
+if (document.all&&document.getElementById) {
+navRoot45 = document.getElementById("nav2");
+for (i=0; i<navRoot45.childNodes.length; i++) {
+node5 = navRoot45.childNodes[i];
+if (node5.nodeName=="LI") {
+node5.onmouseover=function() {
+this.className+=" over";
+  }
+  node5.onmouseout=function() {
+  this.className=this.className.replace(" over", "");
+   }
+   }
+  }
+ }
+}
+window.onload=startIntMenu;
+</script>
+
+<table cellpadding="0" cellspacing="0" border="0"><tr><td>
+<div id="wrap2">
+<ul id="nav2">
+<li><a class="home" href="http://www.technologyreview.com/" tabindex="1" accesskey="1" title="Home :: alt+1">Home</a></li>
+<li><a class="videos" href="http://www.technologyreview.com/video" tabindex="11" title="Videos">Videos</a></li>
+<li><a class="blogs" href="http://www.technologyreview.com/blog" tabindex="12" title="Blogs" >Blogs</a></li>
+<li><a class="brief" href="http://www.technologyreview.com/briefings" tabindex="12" title="Briefings" >Briefings</a></li>
+<li><a class="comm2" href="http://www.technologyreview.com/community" tabindex="13" title="Community">Community</a></li>
+<li><a class="mag" href="http://www.technologyreview.com/magazine" tabindex="14" title="Magazine">Magazine</a></li>
+<!--<li><a class="mit" href="http://www.technologyreview.com/mit_news" tabindex="15" title="MIT News">MIT News</a></li>-->
+<li><a class="nl" href="http://www.technologyreview.com/cust/newsletter.aspx" tabindex="16" title="Newsletters">Newsletters</a></li>
+<li><a class="events" href="http://www.technologyreview.com/events" tabindex="17" title="Events">Events</a></li>
+<li><a class="res" href="http://www.technologyreview.com/resources" tabindex="18" title="Resources">Resources</a></li>
+<li><a href="#" class="navspacer"> </a></li>
+<li><a href="#" class="navspacer"> </a></li>
+<li><a href="#" class="navspacer"> </a></li>
+<li><a href="#" class="navspacer2"> </a></li>
+<li><a href="#" class="navspacer3"> </a></li>
+<li><a class="sub" href="http://subscribe.technologyreview.com/MISubNew.aspx?PC=MT" tabindex="19" title="Subscribe">Subscribe</a>
+</li>
+</ul>
+</div>
+</td></tr></table>
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0"><tr><td>
+<div id="wrap">
+<!--[if IE 6]>
+<div style="height:29px; overflow:hidden">
+<![endif]-->
+<ul id="nav">
+<li><a class="comp" href="http://www.technologyreview.com/computing" tabindex="2" accesskey="2" title="Computing channel homepage :: alt+2">Computing</a></li>
+<li><a class="web" href="http://www.technologyreview.com/web" tabindex="3" accesskey="3" title="Web channel homepage :: alt+3">Web</a></li>
+<li><a class="comm" href="http://www.technologyreview.com/communications" tabindex="4" accesskey="4" title="Communications channel homepage :: alt+4">Communications</a></li>
+<li><a class="energy" href="http://www.technologyreview.com/energy" tabindex="5" accesskey="5" title="Energy channel homepage :: alt+5">Energy</a></li>
+<li><a class="materials" href="http://www.technologyreview.com/materials" tabindex="6" accesskey="6" title="Materials channel homepage :: alt+6">Materials</a></li>
+<li><a class="bio" href="http://www.technologyreview.com/biomedicine" tabindex="7" accesskey="7" title="Biomedicine channel homepage :: alt+7">Biomedicine</a></li>
+<li><a class="business" href="http://www.technologyreview.com/business" tabindex="8" accesskey="8" title="Business channel homepage :: alt+8">Business</a></li>
+<li><a href="#" class="navspacer"> </a></li>
+<li><a href="#" class="navspacer"> </a></li>
+<li><a href="#" class="navspacer2"> </a></li>
+<li><form action="http://www.technologyreview.com/search.aspx" method="get" name="googleSearch" style="padding:3px 0 0 0; margin:0;" class="search">
+<input id="SearchInput" name="s" type="text" value="" tabindex="9" accesskey="i" title="Search input :: alt+i" style="width:101px;margin-left:5px;"/><input type="image" src="/images/navigation/search_button.gif" name="Search" id="Search" tabindex="10" accesskey="s" alt="Search" title="Search submit :: alt+s" align="top"/>
+</form></li>
+</ul>
+<!--[if IE 6]>
+</div>
+<![endif]-->
+</div>
+</td></tr></table>
+
+
+<!-- search ignore end -->
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td width="100%" valign="top">
+
+
+			
+			
+			<div class="pagebox" style="font-family:Helvetica; border-bottom-width:0px">
+	
+			<span class="red" style="font-size:210%">TO READ THIS STORY</span>&nbsp;<span style="font-size:120%">- you must have a paid subscription to <em>Technology Review</em> <strong>OR</strong> you can purchase special archive reading credits here.  Choose from these great offers below.</span>
+			
+			<table width="100%" style="font-weight:bold;margin-top:10px;margin-bottom:8px" align="center">
+			<tr>
+				
+					<td width="25%"><a href="/mytr/login.aspx?redirect=http%3A%2F%2Fwww.technologyreview.com%2Fweb%2F11499%2Fpage1%2F" style="cursor:hand;font-size:105%"><div style="vertical-align:center;background-image:url(/images/pay_btn.jpg); width:114px; height:104px;" align="center"><div style="padding-left:5px;padding-right:10px;padding-top:20px">I'm a paid subscriber please<br/>log me in</div></div></a></td>
+				
+				<td width="25%"><a href="/access/articleaccess.aspx?id=11499" style="cursor:hand;font-size:105%"><div style="vertical-align:center;background-image:url(/images/pay_btn.jpg); width:114px; height:104px;" align="center"><div style="padding-left:5px;padding-right:10px;padding-top:12px">I want to purchase this article for<br/><span style="font-size:135%">only $1.99</span><br/>(requires login)</div></div></a></td>
+				<td width="25%"><a href="/access/articleaccess.aspx?id=11499" style="cursor:hand;font-size:105%"><div style="vertical-align:center;background-image:url(/images/pay_btn.jpg); width:114px; height:104px;" align="center"><div style="padding-left:5px;padding-right:10px;padding-top:12px">I want to purchase five articles for<br/><span style="font-size:135%">only $7.99</span><br/>(requires login)</div></div></a></td>
+				<td width="25%"><a href="/access/subscriptionaccess.aspx?id=11499" style="cursor:hand;font-size:105%"><div style="vertical-align:center;background-image:url(/images/pay_btn.jpg); width:114px; height:104px;" align="center"><div style="padding-left:5px;padding-right:10px;padding-top:12px">I want to buy<br/>1 Year TOTAL Access for<br/><span style="font-size:135%">only $24.95</span><br/>(requires login)</div></div></a></td>
+			</tr>
+			</table>
+			
+			<p style="margin-bottom:2px;margin-top:2px;"><span><a href="/mytr/ESPaccntinfo.aspx">Click here</a> if you are currently a <em>Technology Review</em> print or digital subscriber and do not have access to this article.</span></p>
+			
+				<p style="margin-bottom:2px;margin-top:2px;"><span><a href="/mytr/mitalumni.aspx">Click here</a> if you are an MIT alum and do not have access to this article.</span></p>
+			
+			<p style="margin-bottom:2px;margin-top:2px;"><span><a href="/articleoffercode.aspx?returnUrl=%2fread_article.aspx%3fid%3d11499%26pg%3d1%26ch%3dweb">Click here</a> if to enter an offer code for access to this article.</span></p>
+			</div>
+
+			<div id="articlebody" class="pagebox" style="padding-top:4px;">
+				<div  style="padding-left:10px; font-size:100%">
+					
+					<p id="date" style="padding:3px 0 3px 0px; margin:0; font-size:130%">January 1997</p>
+					
+					<h1 style="font-size:260%"><strong>Getting Into the Swing</strong></h1>
+					
+					<p id="dek">Companies hoping to combine environmental good deeds with sensible business practice need predictable, consistent, and timely signals from regulators.</p>
+										<p id="magbyline" style="color:#333333; margin-bottom:8px; margin-top:4px;">By David Rejeski</p>
+
+						<div style="font-family:Georgia, 'Times New Roman', Times, serif;font-size:120%;">
+						<p>A casual reader of the popular press cannot help but notice that <em>Business Week</em> is beginning to look more like <em>Sierra</em> magazine. Conferences once reserved for environmental engineers and scientists are now populated by business executives proudly expounding on such themes as environmental stewardship and sustainable development. It would be easy-and incorrect-to dismiss many of these public pronouncements as corporate rhetoric chasing "green" consumers. In fact, industry has developed, and is applying, a set of managerial approaches and technical tools to create the next generation of environmental improvements.</p>
+						
+						<table><tr>
+						
+						<td valign="top"><img src="/images/arrow_right.jpg" width="11px" height="19px"></td><td valign="top"><span class="red"><strong>Select from the choices above<br/>to read the entire article.</strong></span></td></tr></table>
+						</div>
+					
+					<div style="clear:both"></div>
+					<!--<div style="border:2px solid #eee; padding:10px; margin:2px; color:#333; font-size:110%; line-height:140%;">
+					<table border="0px" cellpadding="4px" cellspacing="0" width="100%">
+					  <tr><td style="float:left"><span style="font-size:125%"><strong>Subscribe to the <em>Technology Review</em> Magazine</strong></span>
+					  	<p style="margin-top:2px"><a href="/magazine/84/"><img src="http://www.technologyreview.com/images/covers/m_9701.jpg" border="0" style="float:left; padding: 0 8px 8px 0;" alt="January 1997"/></a>
+					  	<span>To view this article, you must have a paid subscription to <em>Technology Review</em> (print or digital edition) <strong>OR</strong> you can purchase credits to view individual articles.  We have several options for content access:</span></p>
+					  	<p><span><em>Technology Review</em> does more than tell you about what you can expect to see next. We explain it to you, in graphic, riveting detail.  If it’s relevant to technology and the future, you’ll learn about it first in <em>Technology Review</em>. Well before the mainstream press wakes up to a technology breakthrough, <em>Technology Review</em> will have made it available to you. But we don’t just report—we analyze. You get in-depth coverage that’s authoritative, reliable, and universally respected.</span></p>
+					  	<p><span>Please note: <a href="/mytr/ESPaccntinfo.aspx">Click here</a> if you are currently a <em>Technology Review</em> print or digital subscriber and do not have access to this article.</span></p>
+					  </td></tr>
+					  <tr><td>
+					  	<table cellspacing="0px" cellpadding="0px">
+					  	<tr><td valign="top" width="49%" class="pagebox" style="font-size:90%">
+							<div class="headingRule2"><strong>Subscriptions</strong></div>
+					  		<a target="_blank" href="http://subscribe.technologyreview.com/MISubNew.aspx?PC=MT">&bull;&nbsp;Subscribe to the Print Edition of <em>Technology Review</em></a>
+					  		<br/>
+					  		<a target="_blank" href="https://subscribe.technologyreview.com/mit/subnew.aspx?PC=MT&SA=D">&bull;&nbsp;Subscribe to the Digital Edition of <em>Technology Review</em></a>
+					  		<br/>
+					  		<a href="/access/subscriptionaccess.aspx?id=11499">&bull;&nbsp;Subscribe Annually to Online Web Content Only </a>
+					  	</td>
+					  	<td width="1%">&nbsp;</td>
+					  	<td valign="top" width="49%" class="rightbox" style="font-size:90%">
+							<div class="headingRule2"><strong>Article/Issue access</strong></div>
+					  		<span>You can purchase access to articles or purchase back issues <em>Technology Review</em> Magazine.</span>
+					  		<br/>
+					  		<a href="/access/articleaccess.aspx?id=11499">&bull;&nbsp;Buy this article only</a>
+					  		<br/>
+					  		<a target="_blank" href="https://www.pubservice.com/backissue/subbi.aspx?PC=MT">&bull;&nbsp;Buy this entire Back Issue</a>
+					  		<br/>
+					  		<a target="_blank" href="http://www.wrightsreprints.com/reprints/index.cfm?magid=2153">&bull;&nbsp;Reprint Information </a>
+					  	</td>
+					  	</tr>
+					  	</table>
+					  </td></tr>
+					
+					</table>
+					</div>	-->
+					
+				
+				</div>	
+				
+				<br/><br/>
+				<div style="font-family:verdana;font-size:80%">
+					<div id="articlebody" class="videodotH">
+					<h1 style="padding-top:3px">Customer Service</h1>
+					</div>
+					
+					<table border="0" cellpadding="10" cellspacing="8" width="100%">
+					<tr>
+					<td width="50%" valign="top" class="pagebox">
+					<div class="headingRule2"><strong>Magazine Services</strong></div>
+					<div class="custsrvlist">
+						
+						<table border="0" cellspacing="0" cellpadding="0">
+					
+					  <tr>
+					    <td valign="top">&bull;</td>
+					    <td valign="top"><a href="http://subscribe.technologyreview.com/SubFAQ.aspx?PC=MT" target="_blank">Subscription FAQ</a></td>
+					  </tr>
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="https://subscribe.technologyreview.com/SubInfo.aspx?PC=MT&do=B" target="_blank">Pay Your Bill</a></td>
+					  </tr>
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="https://subscribe.technologyreview.com/SubInfo.aspx?PC=MT&do=R" target="_blank">Renew Your Subscription</a></td>
+					  </tr>
+					
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="https://subscribe.technologyreview.com/SubInfo.aspx?PC=MT&do=U" target="_blank">Change Your Address</a></td>
+					  </tr>
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="https://subscribe.technologyreview.com/SubInfo.aspx?PC=MT" target="_blank">Check Your Start/Expire Issue</a></td>
+					  </tr>
+					
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="/cust/feedback.aspx">Feedback</a></td>
+					  </tr> <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="https://www.pubservice.com/backissue/subbi.aspx?PC=MT" target="_blank">Buy a Back Issue</a></td>
+					  </tr>
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="/cust/permissions.aspx">Permissions/Reprints</a></td>
+					  </tr>
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="mailto:technologyreview@pubservice.com">Cancel Your Subscription</a></td>
+					  </tr>
+					
+					<tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="https://subscribe.technologyreview.com/SubInfo.aspx?PC=MT&SA=D&AN=&Zp=&PK=" target="_blank">Digital Subscription Customer Service</a></td>
+					  </tr>
+					  
+					
+					</table>
+					</div>
+					</td>
+					<td width="50%" valign="top" class="pagebox">
+					<div class="headingRule2"><strong>Subscribe</strong></div>
+					<div class="custsrvlist">
+					<table border="0" cellspacing="0" cellpadding="0">
+					    <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="http://subscribe.technologyreview.com/MISubNew.aspx?PC=MT" target="_blank">New Subscription</a></td>
+					  </tr>
+					
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="https://subscribe.technologyreview.com/misubgift.aspx?PC=MT" target="_blank">Gift Subscription</a></td>
+					  </tr>
+					
+					
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="https://subscribe.technologyreview.com/mit/subnew.aspx?PC=MT&SA=D" target="_blank">Technology Review in Digital format</a></td>
+					  </tr>
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="/cust/newsletter.aspx">Free email updates</a></td>
+					  </tr>
+					  <tr>
+					    <td valign="top">&bull;&nbsp;</td>
+					    <td valign="top"><a href="/corp/rss.aspx">RSS Feeds</a></td>
+					  </tr>
+					</table>
+					</div>
+					</td>
+					</tr>
+					<tr>
+					  <td class="pagebox"><div class="headingRule2"><strong>Other</strong></div>
+					  <div class="custsrvlist">
+					  &bull;&nbsp;<a href="mailto:mitalum@mit.edu">MIT Affiliates Only</a><br />
+						&bull;&nbsp;<a href="/cust/permissions.aspx">Copyright Permissions</a><br />
+						&bull;&nbsp;<a href="http://www.technologyreview.com/events/tretc/index.aspx">Emerging Technologies Conference</a>
+						</div></td>
+					  <td class="pagebox"><div class="headingRule2"><strong>Advertise</strong></div>
+					 <div class="custsrvlist">&bull;&nbsp;<a href="/media/index.html">Print and online advertising</a><br />
+					
+							
+					
+								&bull;&nbsp;<a href="/cust/docs/Print_email_list_rental.pdf" target="_blank">List rental</a></div>
+					  </td>
+					</tr>
+					</table>
+							
+				</div>
+				</div>
+				
+				
+
+	
+	
+	</div>
+
+		
+
+
+
+</td><td width="333" valign="top">
+
+			<div class="padtoolbar" style="padding:0; margin:0;">
+			
+<!-- search ignore begin -->
+
+<table border="0" cellpadding="0" cellspacing="0" >
+
+<tr><td width="50%">
+
+
+
+
+<div class="boxed" style="margin-bottom:8px";>
+<div class="headingBox">
+	  <h3 class="smallerh3"  style="text-transform:uppercase; color:#999999"><strong>Log In</strong></h3>				
+	</div>
+	
+<div style="padding:0 8px 8px 8px;">
+
+<script type="text/javascript">
+
+function switchto(q){ 
+    if (q){ 
+        document.getElementById('passwordtext').style.display="none"; 
+        document.getElementById('PassBox').style.display="inline"; 
+        document.getElementById('PassBox').focus(); 
+    } else { 
+        document.getElementById('PassBox').style.display="none"; 
+        document.getElementById('passwordtext').style.display="inline"; 
+    } 
+} 
+
+function textChange(elementID, defaultText)
+{
+   var element = document.getElementById(elementID);
+
+   if(element.value == defaultText)
+   {   
+	  if(elementID == "PassBox") {
+	  element.type="Password"
+	  }
+	  element.value = "";
+   }
+   else if(element.value == "")
+   {
+       if(elementID == "PassBox") {
+	  element.type="Text"
+	  }
+	  element.value = defaultText;
+   }
+}
+</script>
+
+
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"
+type="text/javascript"></script>
+  <script type="text/javascript">
+      
+  	  FB_RequireFeatures(["XFBML"], function()
+	  {
+	  	FB.Facebook.init("9c8f18dd045cd0c739d1242eaea4d132", "/mytr/connect/xd_receiver.htm");
+	  	
+	  	FB.Connect.ifUserConnected(FB.Facebook.get_sessionState().waitUntilReady( function()
+      	{facebookStatusUpdate(false,true,false,false)}) );
+      	
+	   });
+  </script>
+
+
+
+
+  
+
+  <script type="text/javascript">
+	   
+	   function facebookStatusUpdate(checkfb,redir,secure,mytr)
+	   { 
+			var xmlhttp = null;
+			try
+			{
+				xmlhttp = new XMLHttpRequest();
+			}
+			catch (exc1)
+			{
+				try
+				{
+					xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				catch (exc2) {}
+			}
+				
+			if (xmlhttp == null)
+			{}
+			else
+			{
+			
+				var api = FB.Facebook.apiClient; 
+				if(api != null && api.get_session() != null)
+				{
+					xmlhttp.open("GET", ((secure)? "https" : "http") + "://" + ((mytr)? "my" : "www")  + ".technologyreview.com/mytr/connect/ajax.aspx?fbid=" + api.get_session().uid + "&fbs=" + api.get_session().session_key, true);
+					xmlhttp.onreadystatechange = function ()
+					{
+						if (xmlhttp.readyState == 4 && xmlhttp.responseXML != null)
+						{
+							var ajaxResponses = xmlhttp.responseXML.getElementsByTagName("ajaxResponse");
+							if (ajaxResponses.length > 0)
+							{
+								var ajaxResponse = ajaxResponses[0];
+								
+								var errors = ajaxResponse.getElementsByTagName("error");
+								var successes = ajaxResponse.getElementsByTagName("success");
+								if (errors.length > 0 && redir)
+								{
+									var errorr = errors[0];
+									var errorCode = errorr.getElementsByTagName("errorCode");
+									if(errorCode.length > 0)
+									{
+										if(errorCode[0].childNodes[0].nodeValue == "1001")
+										{
+											if(!checkfb)
+										   	{
+											
+												location.href = "/facebooklogin.aspx";
+											
+											}
+											else
+											{
+												location.href = "/facebooklogin.aspx";
+											}
+										}
+									}
+								}
+								else if (successes.length > 0)
+								{		
+									var successTag = successes[0];								
+									var webUsers = successTag.getElementsByTagName("webUser");
+									if (webUsers.length > 0)
+									{
+										var webUser = webUsers[0];	
+										var ids = webUser.getElementsByTagName("id");
+										if(ids.length > 0 )
+										{
+											//var id = ids[0];alert(id)
+											
+										    if(location.href.indexOf("?") != -1)
+											   location.href += "&FB=T";
+										    else
+										   	   location.href += "?FB=T";
+										   	
+										}
+									}
+								}
+							}
+						}
+					}	
+					xmlhttp.send(null);
+				}
+			}
+	   }
+ </script>
+
+
+<div id="openidlogin" style="display:none; padding-top:8px;">
+	<form action="https://my.technologyreview.com/mytr/login.aspx?openid=true&amp;redirect=http%3A%2F%2Fwww.technologyreview.com%2Fweb%2F11499%2Fpage1%2F&amp;returnonerr=T" method="post" style="margin: 0; padding:0 ;">
+		<input type="hidden" name="PostingBack" value="true" />
+		<input type="hidden" name="PostbackReason" value="openid" />
+		<table border="0" cellpadding="3" cellspacing="0">
+			<tr>
+				<td valign="top"><input type="text" name="openid_identifier" id="openid_identifier" value="" style="background-image: url(/images/openid_small_logo_white.gif); background-position: center left; background-repeat: no-repeat; padding-left:20px; color:#666666" value="" /></td>
+				<td valign="top"><input type="submit" value="Submit" class="SubmitButton" style="margin:0;"/></td>
+			</tr>
+		</table>
+	</form>
+</div>
+
+	<div id="regularlogin" style="">
+		
+		<form action="https://my.technologyreview.com/mytr/login.aspx?redirect=http%3A%2F%2Fwww.technologyreview.com%2Fweb%2F11499%2Fpage1%2F&returnonerr=T" method="post" style="margin:0; padding:0;">
+										
+			<input type="hidden" name="PostingBack" value="true" />
+			<input type="hidden" name="PostbackReason" value="login" />
+			
+			<table border="0" cellpadding="3" cellspacing="0">
+				<tr>
+			
+					<td><input type="text" name="username" id="UsernameBox1" onfocus="textChange('UsernameBox1','Username');" onblur="textChange('UsernameBox1', 'Username');" value="Username" style="width:90px; margin-top:8px; color:#888" /></td>
+					<td>
+						
+<input type="text" name="password1" id="passwordtext" value="Password" onclick="switchto(1)" onkeydown="switchto(1)" style="width:90px; margin-top:8px; color:#888;"> 
+<input type="password" name="password" id="PassBox" value="" onblur="if(this.value==''){switchto(0)};" style="display:none; width:90px; margin-top:8px; color:#888">				  </td>
+						
+						<td><input type="submit" value="Submit" class="SubmitButton"/></td>
+				</tr>
+			
+			    	
+			</table>
+		</form>
+		</div>		
+		
+ <table width="100%">
+				  <tr>
+				  
+<td><fb:login-button onlogin="facebookStatusUpdate(true,true,false,false)" length="short" size="small"></fb:login-button></td>
+<td>
+	<div title="Login with OpenID" id="openidlogo" style=""><a href="/mytr/login.aspx?openid=true" onclick="document.getElementById('regularlogin').style.display='none'; document.getElementById('openidlogo').style.display='none'; document.getElementById('openidlogin').style.display='block'; document.getElementById('trlogo').style.display='block'; return false;"><img src="/images/openid_small_logo_white.gif" height="16" width="16" /></a></div>
+	<div title="Login with Facebook" id="trlogo" style="display: none; "><a href="/mytr/login.aspx" onClick="document.getElementById('regularlogin').style.display='block'; document.getElementById('openidlogo').style.display='block'; document.getElementById('openidlogin').style.display='none'; document.getElementById('trlogo').style.display='none'; return false;"><img src="/images/trsml.gif" width="20" height="14" /></a></div></td>
+<td align="right">
+				  <a href="https://my.technologyreview.com/mytr/resetpassword.aspx">Forgot your password?</a>
+				  
+				  &nbsp;&nbsp;&nbsp;
+				  
+<a href="https://my.technologyreview.com/mytr/createuser.aspx">Register &raquo;</a></td>
+				  </tr></table>	
+</div></div>
+
+	
+			<div class="advertising" align="center">
+<img src="/images/wheader/ad_legend_h.gif" alt="Advertisement" width="79" height="17" /><br />
+<div id="adDiv1"><script type="text/javascript">
+			var browser_type=navigator.appName
+									var browser_version=parseInt(navigator.appVersion)
+									document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/mediumrectangle;!category=webexc;channel=web;section=;at=mediumrectangle;page=home;s=mediumrectangle;dcopt=ist;tile=3;ord=' + randartnum + '?"><\/SCRIPT>')
+			</script><noscript>
+									<a href="https://ad.doubleclick.net/jump/mk3.technologyreview.com/mediumrectangle;!category=webexc;channel=web;section=;at=mediumrectangle;page=home;s=mediumrectangle;tile=3;ord=' + randartnum + '?" target="_blank">
+										<img SRC="http://ad.doubleclick.net/ad/mk3.technologyreview.com/mediumrectangle;!category=webexc;channel=web;section=;at=mediumrectangle;page=home;s=mediumrectangle;tile=3;ord=' + randartnum + '?" border="0" alt="click here..." />									</a>
+			</noscript></div>
+<script type="text/javascript">
+//alert(document.getElementById("adDiv1").childNodes.length);
+</script>
+	  </div>
+
+				<div class="boxed" style="margin-bottom:8px;">
+				<div class="headingBox"><h3 class="smallerh3" style="text-transform:uppercase; color:#999999"><strong>Top Stories Of The Day</strong></h3></div>
+				<div style="padding:8px">
+				<ul style="padding:0; margin:0">
+			
+					<li>
+			
+					<div class="text">
+						<p><span style="color:#b1180a">&raquo;</span> <a href="/web/25592/" style="font-size:110%">China: Our Internet is Free Enough</a></p>
+					</div>
+					</li> 
+					<li>
+			
+					<div class="text">
+						<p><span style="color:#b1180a">&raquo;</span> <a href="/biomedicine/25591/" style="font-size:110%">Plastic Antibodies Fight Toxins</a></p>
+					</div>
+					</li> 
+					<li>
+			
+					<div class="text">
+						<p><span style="color:#b1180a">&raquo;</span> <a href="/biomedicine/25593/" style="font-size:110%">Startup to Offer Patients a Genetic Profile of their Cancer</a></p>
+					</div>
+					</li> 
+				</ul><div style="clear: both;"></div>
+				</div>
+				</div>
+			
+<!--<div align="center">
+<img src="/images/wheader/ad_legend_h.gif" alt="Advertisement" width="79" height="17" /><br />
+</div>-->
+
+ <div style="border:2px solid #000000;margin:8px 0 8px 0;" id="genClickMSWhitepapers510">
+<div class="headingBox" style="padding:1px 10px 3px 10px; color:#FFFFFF; background:#000000; text-align:center; font-weight: bold;">Featured Content</div>
+<div style="padding:8px; font-size:100%">
+<div style="float:right; text-align:center"><!--<span style="font-size:93%; padding:0 8px 0 8px">Sponsored by:</span><br />--><img src="/images/adverts/microsoft.gif" width="47" height="16" style="padding:3px 8px 3px 8px"></div>
+<strong><u>White Papers</u></strong>
+
+<p style="font-size:93%"><a href="http://clk.atdmt.com/MRT/go/228160724/direct;wi.1;hi.1/01/"><strong>GlaxoSmithKline Leads the Way With Microsoft's cloud services</strong></a></p>
+<a href="http://clk.atdmt.com/MRT/go/228160724/direct;wi.1;hi.1/01/" style="color:#333333;"><img src="/specialreports/pdf_sml.gif" width="22" height="21" border="0" align="absmiddle"> Download</a>
+
+<p style="font-size:93%"><a href="http://clk.atdmt.com/MRT/go/228160725/direct;wi.1;hi.1/01/"><strong>Coca-Cola Embraced Microsoft Software-plus-Services to Unify Their Workforce </strong></a></p>
+<a href="http://clk.atdmt.com/MRT/go/228160725/direct;wi.1;hi.1/01/" style="color:#333333;"><img src="/specialreports/pdf_sml.gif" width="22" height="21" border="0" align="absmiddle"> Download</a>
+
+<p style="font-size:93%"><a href="http://clk.atdmt.com/MRT/go/228160726/direct;wi.1;hi.1/01/"><strong>Eyes on the Clouds</strong></a></p>
+<a href="http://clk.atdmt.com/MRT/go/228160726/direct;wi.1;hi.1/01/" style="color:#333333;"><img src="/specialreports/pdf_sml.gif" width="22" height="21" border="0" align="absmiddle"> Download</a>
+
+<p style="font-size:93%"><a href="http://clk.atdmt.com/MRT/go/228160727/direct;wi.1;hi.1/01/"><strong>Fact Based Comparison of Hosted Services: Google vs. Microsoft</strong></a></p>
+<a href="http://clk.atdmt.com/MRT/go/228160727/direct;wi.1;hi.1/01/" style="color:#333333;"><img src="/specialreports/pdf_sml.gif" width="22" height="21" border="0" align="absmiddle"> Download</a>
+
+<p style="font-size:93%"><a href="http://clk.atdmt.com/MRT/go/228160728/direct;wi.1;hi.1/01/"><strong>State of Colorado (case study video)</strong></a></p>
+<a href="http://clk.atdmt.com/MRT/go/228160728/direct;wi.1;hi.1/01/" style="color:#333333;"><img src="/specialreports/pdf_sml.gif" width="22" height="21" border="0" align="absmiddle"> Download</a>
+
+<p style="font-size:93%"><a href="http://clk.atdmt.com/MRT/go/228160729/direct;wi.1;hi.1/01/"><strong>Microsoft is in the Cloud - What does that mean for the Data Professional?</strong></a></p>
+<a href="http://clk.atdmt.com/MRT/go/228160729/direct;wi.1;hi.1/01/" style="color:#333333;"><img src="/specialreports/pdf_sml.gif" width="22" height="21" border="0" align="absmiddle"> Download</a>
+
+
+<p style="font-size:93%"><a href="http://clk.atdmt.com/MRT/go/228160730/direct;wi.1;hi.1/01/"><strong>City Government Uses Online Services for Messaging, Saves 40%  Annually</strong></a></p>
+<a href="http://clk.atdmt.com/MRT/go/228160730/direct;wi.1;hi.1/01/" style="color:#333333;"><img src="/specialreports/pdf_sml.gif" width="22" height="21" border="0" align="absmiddle"> Download</a>
+
+
+</div></div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (window.genericClickTrackLinks) genericClickTrackAllLinks("genClickMSWhitepapers510", "Microsoft Whitepapers May April 2010");
+//--><!]]>
+</script>
+<script>
+function showCirc(hide,view,tabon,taboff,tabon2,taboff2) {
+document.getElementById(hide).style.display = "none";
+document.getElementById(view).style.display = "";
+document.getElementById(taboff).style.display = "none";
+document.getElementById(tabon).style.display = "";
+document.getElementById(taboff2).style.display = "none";
+document.getElementById(tabon2).style.display = "";
+}
+</script>
+<div style="background:#f5f5f5; border:1px solid #ccc; padding:5px 4px 0 4px; margin:8px 0 8px 0">
+				<table border="0" cellpadding="0" cellspacing="0"><tr>
+					<td style="width:168px;"><div id="ctabon"><h3 class="tabh3"><a  class="circtabon" href="http://www.technologyreview.com/magazine/" onClick="showCirc('subsrvtab','currisstab','staboff','stabon','ctabon','ctaboff'); return false;"><strong>The Magazine</strong></a></h3></div>
+					<div id="ctaboff" style="display:none"><h3 class="tabh3"><a  class="circtaboff" href="http://www.technologyreview.com/magazine/" onClick="showCirc('subsrvtab','currisstab','staboff','stabon','ctabon','ctaboff'); return false;"><strong>The Magazine</strong></a></h3></div>
+					</td>
+					<td style="color: #999999; font-size:100%; width:168px;"><div id="staboff"><h3 class="tabh3"><a class="circtaboff" href="http://www.technologyreview.com/cust/index.aspx"  onClick="showCirc('currisstab','subsrvtab','stabon','staboff','ctaboff','ctabon'); return false;"><strong>Subscriber Services</strong></a></h3></div><div id="stabon" style="display:none;"><h3 class="tabh3"><a class="circtabonb" href="http://www.technologyreview.com/cust/index.aspx" onClick="showCirc('currisstab','subsrvtab','stabon','staboff','ctaboff','ctabon'); return false;"><strong>Subscriber Services</strong></a></h3></div></td></tr>
+				</table>
+				<div id="circtrack">
+				<div id="currisstab" style="background:#ffffff; padding: 12px 8px 8px 8px; border-left:2px solid #ccc; ">
+
+
+				<table border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td>
+				<table border="0" cellpadding="8" cellspacing="0">
+						<tr>
+							<td><a href="http://www.technologyreview.com/magazine/"><img src="/files/39919/May-Jun_2010_cover.jpg" alt="Technology Review May/June 2010" width="114" height="146" border="0" /></a></td>
+							
+							<td valign="top">
+							<h3 class="curissheadsml"><strong>Current Issue</strong></h3>
+							
+							<dl style="padding:0; margin:0;">
+									
+										<dt class="bloghed" style="padding:4px 0 6px 0;"><a href="http://www.technologyreview.com/tr10/" style="font-size:115%; font-family:Arial, Helvetica, sans-serif; color:#333"><strong>10 Emerging Technologies </strong></a></dt>
+										<dd style="font-size:93%">Our annual list of the emerging technologies that will have the biggest impact on our world.</dd>
+									
+								  </dl>
+							<ul style="font-size:93%; margin:0; padding:4px 0 0 0">
+				<li><a href="http://www.technologyreview.com/magazine/">&raquo; Table of Contents</a></li>
+				<li><a href="http://www.technologyreview.com/mit_news/">&raquo; MIT News</a></li>
+								<li class="circshadebox" style="padding-top:2px;"><a href="http://subscribe.technologyreview.com/MISubNew.aspx?PC=MT">&raquo; Subscribe and Save 36%</a></li>
+
+				</ul>
+				
+				</td>
+						</tr>
+				</table>
+				</td><td><img src="/images/clearpix.gif" width="1" height="180" /></td></tr></table>
+</div>
+				
+			<div id="subsrvtab" style="background:#d7eaf6; padding: 12px 0 8px 6px; border-left:2px solid #ccc; border-right:1px solid #b4b5ba; width:327px;display:none;">
+                 <table border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td>
+				<p style="font-size:95%; padding:0 3px 0 5px; margin:0;">In every issue you’ll learn about new technologies and new ideas FIRST. You’ll read in-depth features that investigate how these technologies work.  If you’re in charge of the strategic direction of your organization, or if you simply care where the road to the future is leading, you’ll benefit by subscribing today!</p>
+				
+				<table cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				<td>
+				<ul style="font-size:93%; margin:0; padding:12px 0 0 0">
+				<li class="circshadebox"><a href="http://subscribe.technologyreview.com/MISubNew.aspx?PC=MT">&raquo; Subscribe and Save 36%</a></li>
+				<li class="circshadebox"><a href="https://subscribe.technologyreview.com/mit/subnew.aspx?PC=MT&SA=D">&raquo; Subscribe Digital</a></li>
+				<li class="circshadebox"><a href="https://subscribe.technologyreview.com/misubgift.aspx?PC=MT">&raquo; Give a Gift</a></li>
+				</ul>
+				</td>
+				<td valign="top" style="padding-left:2px;">
+				<ul style="font-size:93%; margin:0; padding:12px 0 0 0">
+				<li class="circshadebox"><a href="https://www.pubservice.com/backissue/subbi.aspx?PC=MT">&raquo; Back Issues</a></li>
+				<li class="circshadebox"><a href="http://www.technologyreview.com/cust/permissions.aspx">&raquo; Reprints & Permissions</a></li>
+				</ul>
+				</td>
+				</tr>
+				</table>
+				</td><td><img src="/images/clearpix.gif" width="1" height="180" /></td></tr></table>
+				</div>
+				</div>
+				
+				
+				</div></div>
+				
+				<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (window.genericClickTrackLinks) genericClickTrackAllLinks("circtrack", "New Circulation Box");
+//--><!]]>
+
+</script>
+
+
+<div class="advertising" align="center"><img src="/images/wheader/ad_legend_h.gif" alt="Advertisement" width="79" height="17" /><br /><script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var browser_type=navigator.appName
+var browser_version=parseInt(navigator.appVersion)
+if (browser_type=="Netscape"&&browser_version>=4)
+document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/skyscraper;!category=webexc;channel=web;section=;at=wideskyscraper;page=home;s=skyscraper;dcopt=ist;tile=4;ord=' + randartnum + '?"><\/SCRIPT>')
+else
+document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/skyscraper;!category=webexc;channel=web;section=;at=wideskyscraper;page=home;s=skyscraper;dcopt=ist;tile=4;ord=' + randartnum + '?"><\/SCRIPT>')
+
+//--><!]]>
+
+							</script>
+	  <noscript><a href="https://ad.doubleclick.net/jump/mk3.technologyreview.com/skyscraper;!category=webexc;channel=web;section=;at=wideskyscraper;page=home;s=skyscraper;tile=4;ord=' + randartnum + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/mk3.technologyreview.com/skyscraper;!category=webexc;channel=web;section=;at=wideskyscraper;page=home;s=skyscraper;tile=4;ord=' + randartnum + '?" border="0" alt="click here..." /></a></noscript>
+</div>
+
+
+  
+
+
+<!--
+
+
+<div class="advertising" align="center"><script language="javascript" type="text/javascript">
+
+
+var browser_type=navigator.appName
+var browser_version=parseInt(navigator.appVersion)
+if (browser_type=="Netscape"&&browser_version>=4)
+document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/hpmicro;!category=webexc;channel=hpmicro;section=;at=hpmicro;page=home;s=hpmicro;dcopt=ist;ord=' + randartnum + '?"><\/SCRIPT>')
+else
+document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/hpmicro;!category=webexc;channel=hpmicro;section=;at=hpmicro;page=home;s=hpmicro;dcopt=ist;ord=' + randartnum + '?"><\/SCRIPT>')
+
+
+
+							</script>
+	  <noscript><a href="https://ad.doubleclick.net/jump/mk3.technologyreview.com/hpmicro;!category=webexc;channel=hpmicro;section=;at=hpmicro;page=home;s=hpmicro;ord=' + randartnum + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/mk3.technologyreview.com/hpmicro;!category=webexc;channel=hpmicro;section=;at=hpmicro;page=home;s=hpmicro;tile=4;ord=' + randartnum + '?" border="0" alt="click here..." /></a></noscript></div>
+
+ -->
+
+
+
+
+
+
+<div align="center" style="padding:0 8px 8px 8px;">
+<img src="/images/wheader/ad_legend_h.gif" alt="Advertisement" width="79" height="17" /><br />
+<script type="text/javascript">
+			var browser_type=navigator.appName
+									var browser_version=parseInt(navigator.appVersion)
+									document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/promoimg2a;!category=webexc;channel=textadtest2;section=;at=promoimg2a;page=home;s=promoimg2a;dcopt=ist;tile=6;ord=' + randartnum + '?"><\/SCRIPT>')
+			</script>
+			<noscript>
+									<a href="https://ad.doubleclick.net/jump/mk3.technologyreview.com/promoimg2a;!category=webexc;channel=textadtest2a;section=;at=promoimg2a;page=home;s=promoimg2a;tile=6;ord=' + randartnum + '?" target="_blank">
+										<img SRC="http://ad.doubleclick.net/ad/mk3.technologyreview.com/promoimg2a;!category=webexc;channel=textadtest2;section=;at=promoimg2a;page=home;s=promoimg2a;tile=6;ord=' + randartnum + '?" border="0" alt="click here..." />									</a>
+			</noscript>
+</div>
+<div align="center">
+	<script type="text/javascript">
+			var browser_type=navigator.appName
+									var browser_version=parseInt(navigator.appVersion)
+									document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/promoimg2b;!category=webexc;channel=textadtest3;section=;at=promoimg2b;page=home;s=promoimg2b;dcopt=ist;tile=6;ord=' + randartnum + '?"><\/SCRIPT>')
+			</script>
+			<noscript>
+									<a href="https://ad.doubleclick.net/jump/mk3.technologyreview.com/promoimg2b;!category=webexc;channel=textadtest3;section=;at=promoimg2b;page=home;s=promoimg2b;tile=6;ord=' + randartnum + '?" target="_blank">
+										<img SRC="http://ad.doubleclick.net/ad/mk3.technologyreview.com/promoimg2b;!category=webexc;channel=textadtest3;section=;at=promoimg2b;page=home;s=promoimg2b;tile=6;ord=' + randartnum + '?" border="0" alt="click here..." />									</a>
+			</noscript>
+</div>
+
+<script type="text/javascript">
+function showMostRead(hide,view,tabon,taboff,tabon2,taboff2) {
+document.getElementById(hide).style.display = "none";
+document.getElementById(view).style.display = "";
+document.getElementById(taboff).style.display = "none";
+document.getElementById(tabon).style.display = "";
+document.getElementById(taboff2).style.display = "none";
+document.getElementById(tabon2).style.display = "";
+}
+</script>
+<div style="background:#f5f5f5; border:1px solid #ccc; padding:5px 4px 0 4px; margin:8px 0 8px 0">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td style="width:168px;">
+				<div id="ctabon_mr">
+					<h3 class="tabh3">
+						<a class="circtabon" href="#" onClick="showMostRead('subsrvtab_mr','currisstab_mr','staboff_mr','stabon_mr','ctabon_mr','ctaboff_mr'); return false;">
+							<strong>Most Read</strong>
+						</a>
+					</h3>
+				</div>
+				<div id="ctaboff_mr" style="display:none">
+					<h3 class="tabh3">
+						<a class="circtaboff" href="#" onClick="showMostRead('subsrvtab_mr','currisstab_mr','staboff_mr','stabon_mr','ctabon_mr','ctaboff_mr'); return false;">
+							<strong>Most Read</strong>
+						</a>
+					</h3>
+				</div>
+			</td>
+			<td style="color: #999999; font-size:100%; width:168px;">
+				<div id="staboff_mr">
+					<h3 class="tabh3">
+						<a class="circtaboff" href="#"  onClick="showMostRead('currisstab_mr','subsrvtab_mr','stabon_mr','staboff_mr','ctaboff_mr','ctabon_mr'); return false;">
+							<strong>Most Commented</strong>
+						</a>
+					</h3>
+				</div>
+				<div id="stabon_mr" style="display:none;">
+					<h3 class="tabh3">
+						<a class="circtabonb" href="http://www.technologyreview.com/cust/index.aspx" style="background-image:url('/images/circbox/cbtab.gif');" onClick="showMostRead('currisstab_mr','subsrvtab_mr','stabon_mr','staboff_mr','ctaboff_mr','ctabon_mr'); return false;">
+							<strong>Most Commented</strong>
+						</a>
+					</h3>
+				</div>
+			</td>
+		</tr>
+	</table>
+	<div id="circtrack_mr">
+		<div id="currisstab_mr" style="background:#ffffff; padding: 12px 8px 8px 8px; border-left:2px solid #ccc; ">
+			<div style="margin:16px 8px 8px 8px;background:url(/images/divider_horiz.gif) top repeat-x;">
+				<ol start="1" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/computing/25524/">3-D Without the Glasses</a></span></li>
+				</ol>
+				<ol start="2" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/computing/25149/">Technology Overview: Designing for Mobility</a></span></li>
+				</ol>
+				<ol start="3" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/energy/25359/">Another Chance to Stop the Gulf Leak</a></span></li>
+				</ol>
+				<ol start="4" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/communications/25396/">Mobile Data: A Gold Mine for Telcos</a></span></li>
+				</ol>
+				<ol start="5" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/biomedicine/25370/">Taming Tinnitus with Electrical Stimulation</a></span></li>
+				</ol>
+			</div>
+		</div>
+		<div id="subsrvtab_mr" style="background:#ffffff; padding: 12px 0 8px 6px; border-left:2px solid #ccc; border-right:1px solid #b4b5ba; width:327px;display:none;">
+			<div style="margin:16px 8px 8px 8px;background:url(/images/divider_horiz.gif) top repeat-x;">
+				<ol start="1" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/energy/25359/page1/">Another Chance to Stop the Gulf Leak</a></span></li>
+				</ol>
+				<ol start="2" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/blog/arxiv/25331/">New Quantum Theory Separates Gravitational and Inertial Mass</a></span></li>
+				</ol>
+				<ol start="3" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/energy/25379/page1/">Nuclear Reactor Aims for Self-Sustaining Fusion </a></span></li>
+				</ol>
+				<ol start="4" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/blog/arxiv/25316/">How To Destroy A Black Hole</a></span></li>
+				</ol>
+				<ol start="5" style="margin:0; padding:0 0 0 30px; background:url(/images/divider_horiz.gif) bottom repeat-x; font-size:110%; font-weight:bold; color:#999999; font-family:Helvetica, sans-serif; width:269px;">
+					<li style="padding:4px 2px 6px 2px; margin:0;"><span style="font-weight:normal; font-size:90%; font-family:Verdana, Arial, Helvetica, sans-serif"><a href="/energy/25525/page1/">How to Prevent Deepwater Spills</a></span></li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="boxed4" style="margin:8px 0 8px 0; ">
+	<div class="headingRule2a" style="border-bottom:0; margin-bottom:0;padding-top:8px;padding-bottom: 8px;">
+		<h3 class="smallerh3"><strong>RSS Feeds</strong></h3>
+		<table>
+			<tr>
+				<td valign="top" style="background:url(/images/divider_vert.gif) top right repeat-y; padding-right:12px">
+					<table>
+				    <tr>
+				      <td><a href="http://feeds.technologyreview.com/technology_review_top_stories"><img src="/images/xml.gif" alt="xml icon" width="27" height="10" border="0" /></a></td>
+				      <td><a href="http://feeds.technologyreview.com/technology_review_top_stories">TR Top Stories</a></td>
+				      </tr>
+				    <tr>
+				      <td><a href="http://feeds.technologyreview.com/technology_review_blog_editors"><img src="/images/xml.gif" alt="xml icon" width="27" height="10" border="0" /></a></td>
+				
+				      <td><a href="http://feeds.technologyreview.com/technology_review_blog_editors">TR Editors' Blog</a></td>
+				      </tr>
+					</table>				</td>
+				<td valign="top" style="padding-left:8px;">
+					<table>
+				    	<tr>
+				      <td><a href="http://feeds.technologyreview.com/technology_review_blog_video"&id=7&quot;><img src="/images/xml.gif" alt="xml icon" width="27" height="10" border="0" /></a></td>
+				      <td><a href="http://feeds.technologyreview.com/technology_review_blog_video"&id=7&quot;>TR Video Blog </a></td>
+				      </tr>
+				  	  <tr>
+				      <td><a href="http://feeds.technologyreview.com/technology_review_video"><img src="/images/xml.gif" alt="xml icon" width="27" height="10" border="0" /></a></td>
+				      <td><a href="http://feeds.technologyreview.com/technology_review_video">TR Video</a></td>
+				      </tr>
+				  </table>				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+
+<div class="advertising" align="center" >
+<img src="/images/wheader/ad_legend_h.gif" alt="Advertisement" width="79" height="17" /><br />
+			<script type="text/javascript">
+			var browser_type=navigator.appName
+									var browser_version=parseInt(navigator.appVersion)
+									document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/mediumrectangle2;!category=webexc;channel=web;section=;at=mediumrectangle2;page=home;s=mediumrectangle2;dcopt=ist;ord=' + randartnum + '?"><\/SCRIPT>')
+			</script>
+			<noscript>
+									<a href="https://ad.doubleclick.net/jump/mk3.technologyreview.com/mediumrectangle2;!category=webexc;channel=web;section=;at=mediumrectangle2;page=home;s=mediumrectangle;ord=' + randartnum + '?" target="_blank">
+										<img SRC="http://ad.doubleclick.net/ad/mk3.technologyreview.com/mediumrectangle2;!category=webexc;channel=web;section=;at=mediumrectangle2;page=home;s=mediumrectangle2;ord=' + randartnum + '?" border="0" alt="click here..." />									</a>
+			</noscript>
+	  </div>
+
+
+
+<div class="boxed4" style="margin:8px 0 8px 0;">
+<div class="headingRule2a" style="border-bottom:0; margin-bottom:0;padding:8px;">
+						Subscribe to Technology Review's daily e-mail update. Enter your e-mail address<br><br>
+						<input type="text" id="txtEmail" size="15" value="E-mail address" onkeyup="if(event.keyCode==13)NewsletterPopup()" onfocus="if(this.value=='E-mail address')this.value='';" />
+						<input type="button" value="Sign up" class="SubmitButton" onclick="NewsletterPopup()" style="margin-top:0px" />
+
+				
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	function NewsletterPopup()
+	{
+		if(document.getElementById("txtEmail").value == "")
+		{
+			alert("You must enter your email address");
+			window.focus();
+			document.getElementById("txtEmail").focus();
+			return;
+		}
+		if(new String(document.getElementById("txtEmail").value).indexOf("@") == -1)
+		{
+			alert("You must first enter a valid email address");
+			window.focus();
+			document.getElementById("txtEmail").focus();
+			return;
+		}
+		if(new String(document.getElementById("txtEmail").value).indexOf(".") == -1)
+		{
+			alert("You must first enter a valid email address");
+			window.focus();
+			document.getElementById("txtEmail").focus();
+			return;
+		}
+		window.open("/dailynewslettersignup.aspx?email=" + document.getElementById("txtEmail").value, null, "left=" + (screen.availWidth/2-225) + ",top=" + (screen.availHeight/2-150) + ",height=300,width=450,location=no,menubar=no,resizable=no,toolbar=no");
+	}
+	
+//--><!]]>
+</script>
+</div></div>
+
+
+<div style="margin-bottom:8px;">
+	<table bordercolor="#921010" border="1" cellpadding="0" cellspacing="0" width="100%" align="center" style="display: none; margin-top:8px;">
+		<tr>
+			<td style="font-size:10px; color:#ffffff; padding-top:1px;" bgcolor="#921010"><strong>TECHNOLOGY RESOURCES</strong></td>
+		</tr>
+		<tr>
+			<td align="center"></td>
+		</tr>
+	</table>
+</div>
+</div></div>
+	
+
+</td></tr></table>				
+			
+<!-- search ignore end -->
+<SCRIPT language="javascript">
+try{FB.XFBML.Host.parseDomTree();}
+catch(Exception){}
+</SCRIPT>
+
+
+			</div>
+	</td></tr></table>
+<!-- search ignore begin -->
+
+
+	
+		<div id="footerAdDiv" align="center" style="padding:8px 0 8px 0; clear:both;"><table>	
+				<tr><td><img src="/images/wheader/ad_legend_v.gif" alt="Advertisement" width="18" height="90"></td>
+<td> 
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+					var browser_type=navigator.appName
+					var browser_version=parseInt(navigator.appVersion)
+					if (browser_type=="Netscape"&&browser_version>=4)
+						document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/leaderboard2;!category=webexc;channel=web;section=;at=leaderboard;page=home;s=leaderboard2;sz=728x90;dcopt=ist;ord=' + randartnum + '?"><\/SCRIPT>')
+					else
+						document.write('<SCR' + 'IPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/mk3.technologyreview.com/leaderboard2;!category=webexc;channel=web;section=;at=leaderboard;page=home;s=leaderboard2;sz=728x90;dcopt=ist;ord=' + randartnum + '?"><\/SCRIPT>')
+				//--><!]]>
+				</script>
+				<noscript><a href="https://ad.doubleclick.net/jump/mk3.technologyreview.com/leaderboard2;!category=webexc;channel=web;section=;at=leaderboard;page=home;s=leaderboard2;sz=728x90;ord=' + randartnum + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/mk3.technologyreview.com/leaderboard2;!category=webexc;channel=web;section=;at=leaderboard;page=home;s=leaderboard2;sz=728x90;ord=' + randartnum + '?" width="728" height="90" border="0" alt="click here..." /></a>
+				</noscript></td></tr></table>
+</div>
+
+			<div id="footer">
+			
+
+
+			
+
+			
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr><td align="left" valign="top" style="font-size:110%; padding-left:12px;">
+			<ul class="fList">
+				<li><a href="http://www.technologyreview.com/corp/about.aspx">About Us</a> |</li>
+				<li><a href="http://www.technologyreview.com/corp/privacy.aspx">Privacy</a> |</li>
+				<li><a href="http://www.technologyreview.com/corp/terms.aspx">Terms of Use</a> |</li>
+				<li><a href="http://subscribe.technologyreview.com/MISubNew.aspx?PC=MT" target="_blank">Subscribe</a> |</li>
+				<li><a href="http://www.technologyreview.com/media/index.html">Advertise</a> |</li>
+				<li><a href="http://www.technologyreview.com/cust/">Customer Service</a> |</li>
+				<li><a href="http://www.technologyreview.com/sitemap.aspx">Sitemap</a> |</li>
+				<li><a href="http://www.technologyreview.com/corp/contact.aspx">Contact Us</a> |</li>
+				<li><a href="http://www.technologyreview.com/cust/feedback.aspx">Feedback</a></li>
+			</ul></td></tr>
+			</table></div>
+			
+			
+			
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr><td><a href="http://web.mit.edu" target="_blank" class="mitfooter"><img src="/images/mit-redgrey-footer3.gif" alt="MIT" width="62" height="36" border="0" align="absmiddle"/> Massachusetts Institute of Technology</a></td>
+							<td align="right" style="font-size:93%">&copy; 2010 Technology Review. All Rights Reserved.</td>
+							</tr>
+</table>
+		</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var s_channel = "web";
+//--><!]]>
+</script>
+<script type="text/javascript" src="/scripts/omniture.js"></script>	
+
+<noscript>
+	<img src="http://techreview.112.2O7.net/b/ss/techreview/1/G.9--ns/$$RANNUM$$?pageName=%2Fread_article.aspx%3Fid%3D11499%26pg%3D1%26ch%3Dweb&amp;g=http://www.technologyreview.com/index.aspx&amp;server=www.technologyreview.com&amp;r=" name="s_i_techreview" alt="" border="0" height="1" width="1" />
+</noscript>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-ffE9vWW7lzZG-";
+if (window.quantserve)
+	quantserve();
+</script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-ffE9vWW7lzZG-.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
+
+</tr></td></table>
+</td>
+<td valign="top"  >
+
+
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-7747898-5");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+<!-- search ignore end -->
+
+</body>
+</html>
+		
